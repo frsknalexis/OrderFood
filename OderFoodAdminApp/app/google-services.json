@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "525890904768",
+    "project_id": "orderfood-e582c",
+    "storage_bucket": "orderfood-e582c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525890904768:android:e6c5ba667f2ed11d270325",
+        "android_client_info": {
+          "package_name": "com.saitama.orderfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525890904768-lvlbqjufks2ab35128a0n2p7nd85m93r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnpBPtaP3zq4SjiQfJlMF7GtPD7tW_2Pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525890904768-lvlbqjufks2ab35128a0n2p7nd85m93r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
